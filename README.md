@@ -70,7 +70,7 @@ LabVIEW (Modbus) -> MQTT Boker -> Grafana Dashboards -> Mobile Alerts
 ![alertas](screenshots/alertas.png)
 
 ### Alert Threshold Behavior - Fuel Level Percentage
-![comportamiento_alerta](screenshots/comportamiento_alert.png)
+![comportamiento_alerta](screenshots/comportamiento_alerta.png)
 
 ### Real-time Mobile Alert Notifications via Telegram
-![mesaje_alerta](screenshots/mesaje_alerta.png)
+![mensaje_alerta](screenshots/mensaje_alerta.png)
