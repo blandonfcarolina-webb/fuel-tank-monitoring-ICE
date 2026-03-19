@@ -30,3 +30,5 @@ LabVIEW (Modbus) -> MQTT Boker -> Grafana Dashboards -> Mobile Alerts
 
 ## Screenshots
 
+### Orotina Tank
+![tanques_orotina](screenshots/tanques_orotina.png)
