@@ -23,8 +23,10 @@ ICE relied on an outdated monitoring platform with no technical support or maint
 ## System Architecture
 LabVIEW (Modbus) -> MQTT Boker -> Grafana Dashboards -> Mobile Alerts
 
-##Results
+## Results
 - Fully functional platform deployed across al 3 ICE thermal plants.
 - Operational staff receiving real-time mobile alerts for critical tank conditions.
 - System documented and maintainable by future technical personnel.
+
+## Screenshots
 
