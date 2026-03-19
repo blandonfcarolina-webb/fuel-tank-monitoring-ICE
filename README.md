@@ -32,3 +32,36 @@ LabVIEW (Modbus) -> MQTT Boker -> Grafana Dashboards -> Mobile Alerts
 
 ### Orotina Tank
 ![tanques_orotina](screenshots/tanques_orotina.png)
+
+### Orotina Tank Variables
+![variables_orotina](screenshots/variables_orotina.png)
+
+### Visualization of Orotina Tank Varibles
+![visualizacion_datos_orotina](screenshots/visualizacion_datos_orotina.png)
+
+### Time Series Dashboard - Orotina Tank
+![graficas_orotina](screenshots/graficas_orotina.png)
+
+### Barranca Tank
+![tanques_barranca](screenshots/tanques_barranca.png)
+
+### Barranca Tank Variables
+![variables_barranca](screenshots/variables_barranca.png)
+
+### Visualization of Barranca Tank Varibles
+![visualizacion_datos_barranca](screenshots/visualizacion_datos_barranca.png)
+
+### Time Series Dashboard - Barranca Tank
+![graficas_barranca](screenshots/graficas_barranca.png)
+
+### Garabito Tank
+![tanques_garabito](screenshots/tanques_garabito.png)
+
+### Garabito Tank Variables
+![variables_garabito](screenshots/variables_garabito.png)
+
+### Visualization of Garabito Tank Varibles
+![visualizacion_datos_garabito](screenshots/visualizacion_datos_garabito.png)
+
+### Time Series Dashboard - Garabito Tank
+![graficas_garabito](screenshots/graficas_garabito.png)
