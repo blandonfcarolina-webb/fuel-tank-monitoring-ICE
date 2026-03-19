@@ -34,7 +34,7 @@ LabVIEW (Modbus) -> MQTT Boker -> Grafana Dashboards -> Mobile Alerts
 ![tanques_orotina](screenshots/tanques_orotina.png)
 
 ### Orotina Tank Variables
-![variables_orotina](screenshots/variables_orotina.png)
+![varibles_orotina](screenshots/varibles_orotina.png)
 
 ### Visualization of Orotina Tank Varibles
 ![visualizacion_datos_orotina](screenshots/visualizacion_datos_orotina.png)
