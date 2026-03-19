@@ -65,3 +65,12 @@ LabVIEW (Modbus) -> MQTT Boker -> Grafana Dashboards -> Mobile Alerts
 
 ### Time Series Dashboard - Garabito Tank
 ![graficas_garabito](screenshots/graficas_garabito.png)
+
+### Alerts
+![alertas](screenshots/alertas.png)
+
+### Alert Threshold Behavior - Fuel Level Percentage
+![comportamiento_alerta](screenshots/comportamiento_alert.png)
+
+### Real-time Mobile Alert Notifications via Telegram
+![mesaje_alerta](screenshots/mesaje_alerta.png)
